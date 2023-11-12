@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing", "ImageProcessing\ImageProcessing.csproj", "{60159E56-B820-4D63-A41A-89204881989E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing.View", "ImageProcessing.View\ImageProcessing.View.csproj", "{60A3AA6E-F753-49B2-B4E1-D970ECE041EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{60159E56-B820-4D63-A41A-89204881989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60159E56-B820-4D63-A41A-89204881989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60159E56-B820-4D63-A41A-89204881989E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A3AA6E-F753-49B2-B4E1-D970ECE041EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A3AA6E-F753-49B2-B4E1-D970ECE041EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A3AA6E-F753-49B2-B4E1-D970ECE041EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A3AA6E-F753-49B2-B4E1-D970ECE041EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

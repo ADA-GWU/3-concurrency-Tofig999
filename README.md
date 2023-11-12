@@ -16,7 +16,15 @@ To run the project, follow these steps:
     cd ImageProcessing
     ```
 
-3. Run the project using the following command template:
+    or if you want to see the process
+
+   ```bash
+   cd ImageProcessing.View
+   ```
+
+4. Copy the image you want to process in current directory (either ImageProcessing or ImageProcessing.View)
+
+5. Run the project using the following command template:
     ```bash
     dotnet run {filename} {square_size} {threading_mode: S or M}
     ```
